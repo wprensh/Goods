@@ -1,0 +1,12 @@
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.Aplication.Contract\bin\Debug\netcoreapp3.1\Goods.Api.Aplication.Contract.deps.json
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.Aplication.Contract\bin\Debug\netcoreapp3.1\Goods.Api.Aplication.Contract.dll
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.Aplication.Contract\bin\Debug\netcoreapp3.1\Goods.Api.Aplication.Contract.pdb
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.Aplication.Contract\bin\Debug\netcoreapp3.1\Goods.Api.Business.dll
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.Aplication.Contract\bin\Debug\netcoreapp3.1\Goods.Api.Business.pdb
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.Aplication.Contract\obj\Debug\netcoreapp3.1\Goods.Api.Aplication.Contract.csprojAssemblyReference.cache
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.Aplication.Contract\obj\Debug\netcoreapp3.1\Goods.Api.Aplication.Contract.AssemblyInfoInputs.cache
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.Aplication.Contract\obj\Debug\netcoreapp3.1\Goods.Api.Aplication.Contract.AssemblyInfo.cs
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.Aplication.Contract\obj\Debug\netcoreapp3.1\Goods.Api.Aplication.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.Aplication.Contract\obj\Debug\netcoreapp3.1\Goods.Api.Aplication.Contract.csproj.CopyComplete
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.Aplication.Contract\obj\Debug\netcoreapp3.1\Goods.Api.Aplication.Contract.dll
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.Aplication.Contract\obj\Debug\netcoreapp3.1\Goods.Api.Aplication.Contract.pdb

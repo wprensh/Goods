@@ -1,0 +1,9 @@
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.CrossCutting\bin\Debug\netcoreapp2.1\Goods.Api.CrossCutting.deps.json
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.CrossCutting\bin\Debug\netcoreapp2.1\Goods.Api.CrossCutting.dll
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.CrossCutting\bin\Debug\netcoreapp2.1\Goods.Api.CrossCutting.pdb
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.CrossCutting\obj\Debug\netcoreapp2.1\Goods.Api.CrossCutting.csprojAssemblyReference.cache
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.CrossCutting\obj\Debug\netcoreapp2.1\Goods.Api.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.CrossCutting\obj\Debug\netcoreapp2.1\Goods.Api.CrossCutting.AssemblyInfo.cs
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.CrossCutting\obj\Debug\netcoreapp2.1\Goods.Api.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.CrossCutting\obj\Debug\netcoreapp2.1\Goods.Api.CrossCutting.dll
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.CrossCutting\obj\Debug\netcoreapp2.1\Goods.Api.CrossCutting.pdb

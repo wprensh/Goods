@@ -1,0 +1,8 @@
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.Business\bin\Debug\netcoreapp3.1\Goods.Api.Business.deps.json
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.Business\bin\Debug\netcoreapp3.1\Goods.Api.Business.dll
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.Business\bin\Debug\netcoreapp3.1\Goods.Api.Business.pdb
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.Business\obj\Debug\netcoreapp3.1\Goods.Api.Business.AssemblyInfoInputs.cache
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.Business\obj\Debug\netcoreapp3.1\Goods.Api.Business.AssemblyInfo.cs
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.Business\obj\Debug\netcoreapp3.1\Goods.Api.Business.csproj.CoreCompileInputs.cache
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.Business\obj\Debug\netcoreapp3.1\Goods.Api.Business.dll
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.Business\obj\Debug\netcoreapp3.1\Goods.Api.Business.pdb

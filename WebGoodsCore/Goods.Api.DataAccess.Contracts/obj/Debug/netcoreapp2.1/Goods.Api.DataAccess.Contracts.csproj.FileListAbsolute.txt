@@ -1,0 +1,9 @@
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.DataAccess.Contracts\bin\Debug\netcoreapp2.1\Goods.Api.DataAccess.Contracts.deps.json
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.DataAccess.Contracts\bin\Debug\netcoreapp2.1\Goods.Api.DataAccess.Contracts.dll
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.DataAccess.Contracts\bin\Debug\netcoreapp2.1\Goods.Api.DataAccess.Contracts.pdb
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.DataAccess.Contracts\obj\Debug\netcoreapp2.1\Goods.Api.DataAccess.Contracts.csprojAssemblyReference.cache
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.DataAccess.Contracts\obj\Debug\netcoreapp2.1\Goods.Api.DataAccess.Contracts.AssemblyInfoInputs.cache
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.DataAccess.Contracts\obj\Debug\netcoreapp2.1\Goods.Api.DataAccess.Contracts.AssemblyInfo.cs
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.DataAccess.Contracts\obj\Debug\netcoreapp2.1\Goods.Api.DataAccess.Contracts.dll
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.DataAccess.Contracts\obj\Debug\netcoreapp2.1\Goods.Api.DataAccess.Contracts.pdb
+C:\Users\Walter Prens\source\repos\WebGoodsCore\Goods.Api.DataAccess.Contracts\obj\Debug\netcoreapp2.1\Goods.Api.DataAccess.Contracts.csproj.CoreCompileInputs.cache

@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@section Scripts {
+    <script src="~/js/JsCrudCovit.js"></script>
+}
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        <h3 class="panel-title">Busqueda</h3>
+    </div>
+    <div class="panel-body">
+        <div class="form-inline">
+            <div class="form-group">
+                <label for="exampleInputName2">Nombre:</label>
+                <input type="text" id="txtBuscar" class="form-control" />
+            </div>
+
+            <input type="button" value="Consultar" id="btnSearch" class="btn btn-default" />
+
+        </div>
+    </div>
+</div>
+<hr />
+
+<div class="row">
+    <div class="col-sm-12">
+        <table id="tblPerson" class="table table-striped">
+            <thead>
+                <tr>
+                    <th>
+                        Country
+                    </th>
+                    <th>
+                        CountryCode
+                    </th>
+                    <th>
+                        Slug
+                    </th>
+                    <th>
+                        Operacion
+                    </th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+</div>
+

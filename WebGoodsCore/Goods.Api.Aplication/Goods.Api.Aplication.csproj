@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Mapper\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Goods.Api.Aplication.Contract\Goods.Api.Aplication.Contract.csproj" />
+    <ProjectReference Include="..\Goods.Api.Business\Goods.Api.Business.csproj" />
+    <ProjectReference Include="..\Goods.Api.DataAccess.Contracts\Goods.Api.DataAccess.Contracts.csproj" />
+    <ProjectReference Include="..\Goods.Api.DataAccess\Goods.Api.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

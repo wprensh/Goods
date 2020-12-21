@@ -1,0 +1,419 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.CrossCutting\\Goods.Api.CrossCutting.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Aplication.Contract\\Goods.Api.Aplication.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Aplication.Contract\\Goods.Api.Aplication.Contract.csproj",
+        "projectName": "Goods.Api.Aplication.Contract",
+        "projectPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Aplication.Contract\\Goods.Api.Aplication.Contract.csproj",
+        "packagesPath": "C:\\Users\\Walter Prens\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Aplication.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Walter Prens\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Business\\Goods.Api.Business.csproj": {
+                "projectPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Business\\Goods.Api.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Aplication\\Goods.Api.Aplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Aplication\\Goods.Api.Aplication.csproj",
+        "projectName": "Goods.Api.Aplication",
+        "projectPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Aplication\\Goods.Api.Aplication.csproj",
+        "packagesPath": "C:\\Users\\Walter Prens\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Aplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Walter Prens\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Aplication.Contract\\Goods.Api.Aplication.Contract.csproj": {
+                "projectPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Aplication.Contract\\Goods.Api.Aplication.Contract.csproj"
+              },
+              "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Business\\Goods.Api.Business.csproj": {
+                "projectPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Business\\Goods.Api.Business.csproj"
+              },
+              "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.DataAccess.Contracts\\Goods.Api.DataAccess.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.DataAccess.Contracts\\Goods.Api.DataAccess.Contracts.csproj"
+              },
+              "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.DataAccess\\Goods.Api.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.DataAccess\\Goods.Api.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Business\\Goods.Api.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Business\\Goods.Api.Business.csproj",
+        "projectName": "Goods.Api.Business",
+        "projectPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Business\\Goods.Api.Business.csproj",
+        "packagesPath": "C:\\Users\\Walter Prens\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Walter Prens\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.CrossCutting\\Goods.Api.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.CrossCutting\\Goods.Api.CrossCutting.csproj",
+        "projectName": "Goods.Api.CrossCutting",
+        "projectPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.CrossCutting\\Goods.Api.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\Walter Prens\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Walter Prens\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Aplication.Contract\\Goods.Api.Aplication.Contract.csproj": {
+                "projectPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Aplication.Contract\\Goods.Api.Aplication.Contract.csproj"
+              },
+              "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Aplication\\Goods.Api.Aplication.csproj": {
+                "projectPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Aplication\\Goods.Api.Aplication.csproj"
+              },
+              "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.DataAccess.Contracts\\Goods.Api.DataAccess.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.DataAccess.Contracts\\Goods.Api.DataAccess.Contracts.csproj"
+              },
+              "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.DataAccess\\Goods.Api.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.DataAccess\\Goods.Api.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.DataAccess.Contracts\\Goods.Api.DataAccess.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.DataAccess.Contracts\\Goods.Api.DataAccess.Contracts.csproj",
+        "projectName": "Goods.Api.DataAccess.Contracts",
+        "projectPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.DataAccess.Contracts\\Goods.Api.DataAccess.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Walter Prens\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.DataAccess.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Walter Prens\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.DataAccess\\Goods.Api.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.DataAccess\\Goods.Api.DataAccess.csproj",
+        "projectName": "Goods.Api.DataAccess",
+        "projectPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.DataAccess\\Goods.Api.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Walter Prens\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Walter Prens\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Business\\Goods.Api.Business.csproj": {
+                "projectPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.Business\\Goods.Api.Business.csproj"
+              },
+              "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.DataAccess.Contracts\\Goods.Api.DataAccess.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Walter Prens\\source\\repos\\WebGoodsCore\\Goods.Api.DataAccess.Contracts\\Goods.Api.DataAccess.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
